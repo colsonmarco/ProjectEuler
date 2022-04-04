@@ -1,3 +1,5 @@
+# Question can be found at https://projecteuler.net/problem=4
+#
 # A palindrome made via the product of two 3 digit numbers will be of the form
 # abccba where a, b, and c are digits betwen 0-9. Factoring this will give us
 # the insight that the palindrome will satisfy this expression: 

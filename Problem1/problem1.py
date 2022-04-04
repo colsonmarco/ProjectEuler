@@ -1,3 +1,5 @@
+# Question can be found at https://projecteuler.net/problem=1
+#
 # The sum of all multiples of some integer a less than some constant 
 # n can be found by finding the largest multiple under n, dividing by a,
 # and summing continuously from 1 to that result. Then multiply by a again and

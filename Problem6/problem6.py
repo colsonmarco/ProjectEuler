@@ -1,3 +1,5 @@
+# Question can be found at https://projecteuler.net/problem=6
+#
 # This could be solved programatically with a couple for loops, but it is a
 # rather simple computation. We know that 1^2 + ... n^2 is equal to the
 # expression (n(n+1)(2n+1))/6. We also know that (1 + ... n)^2 is equal to the

@@ -1,3 +1,5 @@
+# Question can be found at https://projecteuler.net/problem=2
+#
 # You can solve this problem without code. The golden ratio (phi) is
 # the ratio between consecutive terms. Since the even terms are every third
 # term, the ratio between even terms approaches phi^3 (4.236068). Thus, we
