@@ -1,6 +1,6 @@
 from math import sqrt
 
-# Question can be found at https://projecteuler.net/thread=9
+# Question can be found at https://projecteuler.net/problem=9
 
 for a in range(1001):
     for b in range(a, 1001):
